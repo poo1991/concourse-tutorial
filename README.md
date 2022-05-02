@@ -16,7 +16,7 @@ Thanks for all the pull requests to help fix regressions with some Concourse ver
 
 ## Getting Started
 
-Read the tutorial at https://concoursetutorial.com
+Read. the tutorial at https://concoursetutorial.com
 
 ## Local development of tutorial
 
